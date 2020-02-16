@@ -60,11 +60,13 @@ I have not coding experience yet. I believe I will get it at Rolling Scopes.
 
 **5. English level** 
 
-Intermidate (B1-B2). I have daily practice at work and regulary attend english classes.
+Intermediate (B1-B2).
+
+_I have daily practice at work and regular attendance English classes._
 
 ## Experience
 
-Here is my working experience
+All organizations in which I worked are presented in the table.
 
 **Period** | **Organization** | **Position**
 -----------|------------------|--------------
