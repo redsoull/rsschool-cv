@@ -49,7 +49,8 @@ I have not coding experience yet. I believe I will get it at Rolling Scopes.
   * Belorussin National Technical University, Engineer (2006-2011)
   * HTML и CSS courses on [HTMLacademy](https://htmlacademy.ru/profile/id1169577)
 
-**5. English level:** 
+**5. English level** 
+
 Intermidate (B1-B2). I have daily practice at work and regulary attend english classes.
 
 ### Experience
