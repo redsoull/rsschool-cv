@@ -14,15 +14,21 @@ Sept, 20th 1988
 ###### Hobby
 
 **I'm interested in**
-* swerving
+* Swerving
+* Phcyhology
 
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+###### My goals
+
+My main goal is self growing
+
 ### Skills and Education
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
+**1. Programming languages and other tech skills**
+* SQL (basics)
+* HTML and CSS (basics)
+* GitHub (basics)
 
-**Code examples (LATEST)**
+**2. Code examples **
+
 My current  work is related with working with databases using SQL. So I think I'm quite well at
 ```
 Select
@@ -35,13 +41,24 @@ Group By field_1,
          day
 Order by day desc
 ```
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
+**3. Coding experience**
+I have not coding experience yet. I believe I will get it at Rolling Scopes.
 
-**English level:** 
+**4. Education**
+  * Belorussin National Technical University (2006-2011)
+  * HTML и CSS courses on [htmlacademy](https://htmlacademy.ru/profile/id1169577)
+
+**5. English level:** 
 Intermidate (B1-B2). I have daily practice at work and regulary attend english classes.
 
 ### Experience
+
+**Period** | **Organization** | **Position**
+-----------|------------------|--------------
+_2018 - current time_ | [Mapbox](https://www.mapbox.com/) | Data base specialist
+_2017 - 2018_ | Vishnev company | Technologist
+_2016 - 2017_ | PKHP | Accountant
+_2015 - 2016_ | JaKo Company | Sailer
+_2013 - 2015_ | STM-2 PMY Department | Engineer
+_2011 - 2013_ | OMZ | Manager of laboratory
 
