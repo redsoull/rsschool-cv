@@ -18,7 +18,7 @@ Where You can find me | The way You can do it
 **Phone:** | +375 (29) 188 68 84
 **e-mail:** | rijaia-ola@gmail.com
 **Telegram:** | Red soul
-**GitHub:** | @redsoull
+**GitHub:** | [@redsoull](https://github.com/redsoull)
 
 
 #### Hobby
@@ -66,7 +66,7 @@ _I have daily practice at work and regular attendance English classes._
 
 ## Experience
 
-All organizations in which I worked are presented in the table.
+_All organizations in which I worked are presented in the table._
 
 **Period** | **Organization** | **Position**
 -----------|------------------|--------------
