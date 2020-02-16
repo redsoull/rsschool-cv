@@ -6,25 +6,27 @@
 
 Volha Koval
 
-#### Contact Info 
-**Phone:** +375 (29) 188 68 84
-
-**e-mail:** rijaia-ola@gmail.com
-
-**Telegram:** Red soul
-
-**GitHub:** @redsoull
-
 #### Birthday
 
 Sept, 20th 1988
 
-##### Hobby
+#### Contact Info
+
+
+Where You can find me | The way You can do it
+----------------------|---------
+**Phone:** | +375 (29) 188 68 84
+**e-mail:** | rijaia-ola@gmail.com
+**Telegram:** | Red soul
+**GitHub:** | @redsoull
+
+
+#### Hobby
 
 * Sewing
 * Psychology
 
-###### My goals
+#### My goals
 
 My main goal is self growing
 
