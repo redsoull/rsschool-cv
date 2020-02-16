@@ -1,16 +1,74 @@
-What should a Junior Developer Resume contain?
 
-! Important: write your Resume in English if you can, if possible
+# Resume
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## Personal info
+#### Name
+
+Volha Koval
+
+#### Contact Info 
+**Phone:** +375 (29) 188 68 84
+
+**e-mail:** rijaia-ola@gmail.com
+
+**Telegram:** Red soul
+
+**GitHub:** @redsoull
+
+#### Birthday
+
+Sept, 20th 1988
+
+##### Hobby
+
+* Sewing
+* Psychology
+
+###### My goals
+
+My main goal is self growing
+
+## Skills and Education
+**1. Programming languages and other tech skills**
+* SQL (basics)
+* HTML and CSS (basics)
+* GitHub (basics)
+
+**2. Code examples**
+
+My current  work is related with working with databases using SQL. So I think I'm quite well at
+```
+Select
+  field_1,
+  day,
+  sum(Case When field_2='yes' then 1 else 0 end) as well
+From some_table
+Where things='good'
+Group By field_1, 
+         day
+Order by day desc
+```
+**3. Coding experience**
+
+I have not coding experience yet. I believe I will get it at Rolling Scopes.
+
+**4. Education**
+  * Belorussin National Technical University, Engineer (2006-2011)
+  * HTML и CSS courses on [HTMLacademy](https://htmlacademy.ru/profile/id1169577)
+
+**5. English level** 
+
+Intermidate (B1-B2). I have daily practice at work and regulary attend english classes.
+
+## Experience
+
+Here is my working experience
+
+**Period** | **Organization** | **Position**
+-----------|------------------|--------------
+_2018 - current time_ | [Mapbox](https://www.mapbox.com/) | Data base specialist
+_2017 - 2018_ | Vishnev company | Technologist
+_2016 - 2017_ | PKHP | Accountant
+_2015 - 2016_ | JaKo Company | Sailer
+_2013 - 2015_ | STM-2 PMY Department | Engineer
+_2011 - 2013_ | OMZ | Manager of laboratory
