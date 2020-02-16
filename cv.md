@@ -27,7 +27,7 @@ My main goal is self growing
 * HTML and CSS (basics)
 * GitHub (basics)
 
-**2. Code examples **
+**2. Code examples**
 
 My current  work is related with working with databases using SQL. So I think I'm quite well at
 ```
@@ -42,16 +42,19 @@ Group By field_1,
 Order by day desc
 ```
 **3. Coding experience**
+
 I have not coding experience yet. I believe I will get it at Rolling Scopes.
 
 **4. Education**
-  * Belorussin National Technical University (2006-2011)
-  * HTML и CSS courses on [htmlacademy](https://htmlacademy.ru/profile/id1169577)
+  * Belorussin National Technical University, Engineer (2006-2011)
+  * HTML и CSS courses on [HTMLacademy](https://htmlacademy.ru/profile/id1169577)
 
 **5. English level:** 
 Intermidate (B1-B2). I have daily practice at work and regulary attend english classes.
 
 ### Experience
+
+Here is my working experience
 
 **Period** | **Organization** | **Position**
 -----------|------------------|--------------
